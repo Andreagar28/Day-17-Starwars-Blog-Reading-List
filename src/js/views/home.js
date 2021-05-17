@@ -5,6 +5,6 @@ import Animation from "../component/Animation";
 
 export const Home = () => (
 	<>
-		<Animation /> {/* si se pone animacion en el layout, no funcionan los  enlaces  */}
+		<Animation /> 
 	</>
 );
