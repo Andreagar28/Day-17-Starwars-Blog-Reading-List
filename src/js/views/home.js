@@ -5,6 +5,6 @@ import Animation from "../component/Animation";
 
 export const Home = () => (
 	<>
-		<Animation /> 
+		<Animation />
 	</>
 );
