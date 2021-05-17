@@ -18,7 +18,11 @@ const Character = () => {
 							return (
 								<div className="col-md-4 char" key={index}>
 									<div className="card cardChar">
-										<img src="http://placehold.it/300x150" className="card-img-top" alt="" />
+										<img
+											src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e28c9d02-0689-4ff1-b88d-17ac2909f47c/d9nhjuo-5bd1c145-0441-4109-8635-392d908a0bfe.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZTI4YzlkMDItMDY4OS00ZmYxLWI4OGQtMTdhYzI5MDlmNDdjXC9kOW5oanVvLTViZDFjMTQ1LTA0NDEtNDEwOS04NjM1LTM5MmQ5MDhhMGJmZS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.27X6nXEEfr7dqjb_0s3BEZkNlO0iBj262uvUVrbds5k"
+											className="card-img-top"
+											alt=""
+										/>
 										<div className="card-body">
 											<h3 className="card-title">{item.name}</h3>
 

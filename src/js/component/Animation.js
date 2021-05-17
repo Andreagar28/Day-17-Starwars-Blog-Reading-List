@@ -13,8 +13,9 @@ export default function Animation() {
 					</div>
 
 					<p>
-						It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first
-						victory against the evil Galactic Empire.
+						Hace muchos segundos atras, en un bootcamp muy lejano, un par de desarroladores junior hizo un
+						blog muy especial. It is a period of civil war. Rebel spaceships, striking from a hidden base,
+						have won their first victory against the evil Galactic Empire.
 					</p>
 
 					<p>

@@ -16,7 +16,11 @@ const Planet = () => {
 							return (
 								<div className="col-md-4 char" key={index}>
 									<div className="card">
-										<img src="http://placehold.it/300x150" className="card-img-top" alt="" />
+										<img
+											src="https://i.pinimg.com/originals/83/bd/55/83bd55bd1ed64d9c0398d5b7b45fada7.gif"
+											className="card-img-top"
+											alt=""
+										/>
 										<div className="card-body">
 											<h3 className="card-title">{item.name}</h3>
 											<p className="card-text">Terrain: {item.terrain}</p>
