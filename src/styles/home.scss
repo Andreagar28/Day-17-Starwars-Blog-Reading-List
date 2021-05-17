@@ -1,12 +1,40 @@
-
 body {
     width: 100%;
     height: 100%;
    /*   background: url(https://1.bp.blogspot.com/-Jy1C5k7h_Ag/X98v-50dLoI/AAAAAAAAf5I/6YVri3ionkkH2Esq5cqdOmk29IB6_9xGwCLcBGAsYHQ/s750/star-wars-logo.gif);  */ 
     background: url(https://wallpapercave.com/wp/St5To1O.gif);
-    overflow: hidden;
+   
 }
- 
+.hidden{
+   overflow: hidden;
+
+}
+.container{
+    margin-top: 4rem;
+}
+.char{
+    margin: 1rem 0;
+}
+.navbar{
+   position: fixed; /* Set the navbar to fixed position */
+  top: 0;
+    width: 100%;
+    z-index: 2;
+}
+.lm{
+    margin: 1rem 1rem 1rem 0;
+}
+.card-body {
+   min-height: 140px;
+    padding: 1.25rem 1.25rem 0 1.25rem;
+}
+.cardChar{
+   min-height: 187px;
+
+}
+p {
+    margin-bottom: 0rem;
+}
 .fade {
   position: relative;
   width: 100%;
